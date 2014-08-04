@@ -57,3 +57,7 @@ h2.subtitle {
 .social > li > i {
 	padding-right:15px;
 }
+
+.link-media > a, a:hover, a:visited, a:link, a:active {
+	color: inherit;
+}
